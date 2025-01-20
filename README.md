@@ -1,5 +1,3 @@
-# curious-ai-privacy-policy
-
 # Privacy Policy
 
 Umut Türklay developed the **Curious AI** app as a Freemium app. This **SERVICE** is provided by Umut Türklay at no cost and is intended for use as is.
